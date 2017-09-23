@@ -1,1 +1,1 @@
-# camera-factory.github.io
+# camera-factory
